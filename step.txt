@@ -1,0 +1,5 @@
+1. fix validasi kode barang 
+2. data barang menjadi produk
+3. stok jadi kartu stok
+4. menu karyawan
+5. tambah menu supplier
